@@ -1,0 +1,63 @@
+What is Ecommerce?
+	Ecommerce,also known as electronic or internet commerce, refers to the buying and selling of goods or services using the internet.Ecommerce is often used to refer to the sale of physical products online,but it can also describe any kind of commercial transaction that is facilitated throught the internet.
+
+Types of Ecommerce Models
+1. Business to consumer (B2C)
+	-When a business sells a good or service to an  individual consumer.
+	Ex: You buy a pair of shoes from a retailer
+
+2. Business to business (B2B) - > Business to Business and consumer
+	-When a business sells a good or service to another business. A business sells software as a service for other business to use.
+
+3. Consumer to Consumer (C2C)
+	-When a consumer sells a good or service to another consumer. You sell your old guitar on ebay.
+
+4. Consumer to Business(C2B)
+	-When a consumer sells their own product or service to another business or organization. (Web Developer, Photographer, an arcithect)
+
+
+Source: shopify.com/encylopedia/what-is-ecommerce
+
+Specs of our ecommerce. (B2C)
+
+Users 
+	fullname:
+	username:
+	password:
+	isAdmin: false
+
+ADMIN
+	-Add a product
+	-Edit a product
+	-Delete a product
+	-Soft Deletes
+
+USER
+	-Add a product to cart
+	-View cart items
+	-Edit a product 
+	-Delete a single product on cart
+	-Empty Cart
+	-Checkout
+	-Register
+
+For Both ADMIN and USER
+	-Login
+	-Logout
+	-View all product
+	-View a single product
+
+PRODUCTS
+	name
+	price
+	description
+	image
+	isActive: true
+
+PAYMENTS
+	Username
+	total
+	date_created
+	transaction_code
+
+	

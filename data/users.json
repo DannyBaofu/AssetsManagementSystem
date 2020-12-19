@@ -1,0 +1,44 @@
+[
+    {
+        "fullname": "John cena",
+        "username": "Johncena123",
+        "password": "$2y$10$hDZWBDogCxbpKle29ajSfu2cDH0NDxTenYGUjBbxUtY55rPOhB9k.",
+        "isAdmin": true
+    },
+    {
+        "fullname": "John wei ",
+        "username": "wei chuan",
+        "password": "$2y$10$oXvnjAh.o6jvXQ0WrFQtsujE31XiN5w7FRy7y2goelSY5s6FYz6ZW",
+        "isAdmin": true
+    },
+    {
+        "fullname": "John cenaasd",
+        "username": "johndoe12345",
+        "password": "$2y$10$iL7TcfHPrfth5E8XZuJ5gOQ4Br1pTmEGsk\/UUqj1e8Ubion4Ufnd2",
+        "isAdmin": true
+    },
+    {
+        "fullname": "John cena",
+        "username": "Therockjohnson",
+        "password": "$2y$10$EAmr4zHBPiQqFhoWleDr1Os\/BUdSXj9cvuEo8A4VvPL83Sc2CeYkO",
+        "isAdmin": false
+    },
+    {
+        "fullname": "Danny PH",
+        "username": "Therockjohnson123",
+        "password": "$2y$10$WrUGk5vbr.RM7K.0FdYOEe79qXckicEwQzG.J4iXePlpM3X8Bkkte",
+        "isAdmin": false
+    },
+    {
+        "fullname": "John cena",
+        "username": "dannybaofu",
+        "password": "$2y$10$3Gkcsy4juoR2zPjgpGOaEu9wa4NOqQdUarqLADYZ6MN47FvE7UHwm",
+        "isAdmin": false
+    },
+    {
+        "fullname": "LeeDannyB",
+        "username": "kimjongkook",
+        "password": "$2y$10$u9EUzbVu1s3Dud9.JiIKW.Uz1TWhPb4mTMjTwF3kc\/9DwIntYtAJK",
+        "isAdmin": false
+    }
+]

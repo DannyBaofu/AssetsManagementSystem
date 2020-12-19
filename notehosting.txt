@@ -1,0 +1,14 @@
+-git init
+-heroku login
+-open a new terminal on the same folder 
+-heroku create webname
+-git add .
+-git commit -m "initial commit"
+-git push heroku master
+-heroku open
+
+What if i add some changes on the project? 
+-git add .
+-git commit -m "what changes did you do"
+-git push heroku master
+-heroku open

@@ -1,0 +1,23 @@
+[
+    {
+        "name": "LV",
+        "price": 100,
+        "description": "Louis Vuitton",
+        "image": "\/assets\/img\/logo.png",
+        "isActive": false
+    },
+    {
+        "name": "Adidas",
+        "price": "500",
+        "description": "Its the best destination to visit",
+        "image": "\/assets\/img\/davide-ragusa-1PHDS-PFtcM-unsplash.jpg",
+        "isActive": true
+    },
+    {
+        "name": "Adidas",
+        "price": "50",
+        "description": "Good",
+        "image": "\/assets\/img\/jamie-street-88IMbX3wZmI-unsplash.jpg",
+        "isActive": false
+    }
+]
